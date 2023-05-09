@@ -12,5 +12,4 @@ lista.append(c)
 lista.append(d)
 lista.append(e)
 print(lista)
-print("hola wey")
-print("ya esta")
+
