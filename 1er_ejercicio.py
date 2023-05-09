@@ -12,4 +12,4 @@ lista.append(c)
 lista.append(d)
 lista.append(e)
 print(lista)
-
+print("Estas bien wey y le gustas a un bato")
