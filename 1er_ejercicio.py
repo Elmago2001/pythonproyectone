@@ -12,4 +12,4 @@ lista.append(c)
 lista.append(d)
 lista.append(e)
 print(lista)
-
+print("eres puto")
