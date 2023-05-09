@@ -14,3 +14,6 @@ lista.append(e)
 print(lista)
 print("Estas bien wey y le gustas a un bato")
 print("eres puto")
+'''
+estas bien pendejo asi no se hace guey
+'''
